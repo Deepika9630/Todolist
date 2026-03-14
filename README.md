@@ -261,7 +261,7 @@ showTasks();
 
 ## OUTPUT
 
-![alt text](<WhatsApp Image 2026-03-13 at 11.41.54 AM.jpeg>)
+![alt text](<Output.jpeg>)
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
